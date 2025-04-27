@@ -24,7 +24,7 @@
 
 ##
 # RUNNING THE APPLICATION
-## Below is a table that shows the different endpoints that should be used in Postman to be able to view diffrent task from the database.
+## Below is a table that shows the different endpoints that should be used in Postman to view diffrent tasks from the database.
 
 ##
 
@@ -40,5 +40,5 @@
 
 ##
 ## NB 
-+ The Database for this project is found in the resource folder (todolistdb.sql).
-+ Swagger has also been implemented to enable a perfect view of all the endpoints. (HTTP://swagger-ui/index.html)
++ The database for this project can be found in the resource folder (todolistdb.sql).
++ Swagger has also been implemented to enable a perfect view of all the endpoints. (http://localhost:8081/swagger-ui/index.html )
